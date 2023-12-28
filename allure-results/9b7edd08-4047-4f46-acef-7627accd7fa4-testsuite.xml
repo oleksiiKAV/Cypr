@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1703773462910' stop='1703773463295'>
+    <name>Product page -Checkout </name>
+    <title>Product page -Checkout </title>
+    <test-cases>
+        <test-case start='1703773462910' status='broken' stop='1703773463232'>
+            <name>Verify search field by category</name>
+            <title>Verify search field by category</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>_HomePage.shopping.getFirstCart2 is not a function</message>
+                <stack-trace>TypeError: _HomePage.shopping.getFirstCart2 is not a function
+                    at Context.eval (webpack://cypresstests/./cypress/e2e/Products.cy.js:13:13)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1703773445529' stop='1703773455869'>
+    <name>Home page Subscribe form</name>
+    <title>Home page Subscribe form</title>
+    <test-cases>
+        <test-case start='1703773445540' status='passed' stop='1703773451000'>
+            <name>allow users to subscribe to the email list</name>
+            <title>allow users to subscribe to the email list</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1703773451037' status='passed' stop='1703773455816'>
+            <name>does NOT allow invalid email address</name>
+            <title>does NOT allow invalid email address</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1703773490408' stop='1703773498066'>
+    <name>registr</name>
+    <title>registr</title>
+    <test-cases>
+        <test-case start='1703773490415' status='passed' stop='1703773491430'>
+            <name>Verify that the form UI matches with the requirements</name>
+            <title>Verify that the form UI matches with the requirements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1703773491447' status='passed' stop='1703773493774'>
+            <name>Verify registr functionality with valid credentials</name>
+            <title>Verify registr functionality with valid credentials</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1703773493784' status='passed' stop='1703773495413'>
+            <name>Verify registr functionality with empty username</name>
+            <title>Verify registr functionality with empty username</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1703773495432' status='passed' stop='1703773496597'>
+            <name>Verify registr functionality with empty email</name>
+            <title>Verify registr functionality with empty email</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1703773496618' status='passed' stop='1703773498065'>
+            <name>Verify registr functionality without symbol @ in email address</name>
+            <title>Verify registr functionality without symbol @ in email address</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
